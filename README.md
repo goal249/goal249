@@ -1,16 +1,25 @@
 ## Hi there 👋
+# 👋 Hi, I'm goal249
+燕山大学计算机硕士 | 网络安全 / 大数据方向
+中共党员 | 退伍大学生士兵
+专注计算机+财经交叉：数据分析 / 金融科技 / 信息系统
 
-<!--
-**goal249/goal249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 技术栈
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-Here are some ideas to get you started:
+🎯 学习方向
+- 网络安全 / 侧信道安全
+- 大数据分析与可视化
+- 金融科技 / 财经数据处理
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 精选项目
+- 基于SpringBoot的茶叶溯源销售系统（毕设）
+- 计算机408核心知识点整理
+- 数据处理与分析小工具
+
+📫 联系我
+Email：2498542901@qq.com
