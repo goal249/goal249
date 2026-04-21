@@ -1,13 +1,8 @@
 ## Hi there 👋
-<p align="center">
-  < img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士|中共党员|退伍大学生士兵;专注网络安全+大数据分析;计算机×财经交叉探索中" alt="Typing SVG" />
-</p >
+# 👋 你好，我是 goal249
 
----
-
-### 🌌 背景动画（自动生效）
 <p align="center">
-  < img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tech/geometry.gif" width="100%" />
+  < img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士;中共党员|退伍大学生士兵;网络安全+大数据分析;计算机×财经交叉探索中" alt="Typing SVG" />
 </p >
 
 ---
@@ -57,11 +52,4 @@
 ### 🌐 访客计数器
 <p align="center">
   < img src="https://komarev.com/ghpvc/?username=goal249&color=blueviolet&style=flat-square" alt="访客数" />
-</p >
-
----
-
-### ✨ 装饰分割线
-<p align="center">
-  < img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/.github/snake.svg" width="100%" />
 </p >
