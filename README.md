@@ -34,7 +34,7 @@
 
 ### 📊 GitHub 动态卡片
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goal249&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goal249&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal249&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="40%" alt="Top Languages" />
 </p >
 
