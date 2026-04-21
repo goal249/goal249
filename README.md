@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tech/geometry.gif" width="100%" alt="Cyberpunk Background" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyberpunk Background" />
 </p >
 
 # 👋 你好，我是 goal249
