@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyberpunk Background" />
 </p >
 
-# 👋 你好，我是 goal249
+# 👋 你好，我是 破坏王
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士|中共党员|退伍大学生士兵;网络安全+大数据分析;赛博朋克开发者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士|中共党员|退伍大学生士兵;网络安全+大数据分析" alt="Typing SVG" />
 </p >
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-### 💻 技术栈（赛博霓虹徽章）
+### 💻 技术栈
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub 动态卡片（赛博主题）
+### 📊 GitHub 动态卡片
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goal249&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal249&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="40%" alt="Top Languages" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 🌐 访客计数器（霓虹版）
+### 🌐 访客计数器
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=goal249&color=ff00ff&style=for-the-badge" alt="访客数" />
 </p >
