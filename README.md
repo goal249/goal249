@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyberpunk Background" />
 </p >
 
 # 👋 你好，我是 goal249
@@ -10,10 +10,6 @@
 </p >
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/L18yFjD.png" width="100%" />
-</p >
 
 ### 🚀 关于我
 - 🔭 目前专注于 **网络安全** 与 **大数据处理**
@@ -65,5 +61,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </p >
