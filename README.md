@@ -55,7 +55,7 @@
 
 ### 🌐 访客计数器
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goal249&color=ff00ff&style=for-the-badge" alt="访客数" />
+  <img src="https://komarev.com/ghpvc/?username=goal249&color=7aa2f7&style=for-the-badge" alt="访客数" />
 </p >
 
 ---
