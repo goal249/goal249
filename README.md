@@ -1,25 +1,67 @@
 ## Hi there 👋
-# 👋 Hi, I'm goal249
-燕山大学计算机硕士 | 网络安全 / 大数据方向
-中共党员 | 退伍大学生士兵
-专注计算机+财经交叉：数据分析 / 金融科技 / 信息系统
+<p align="center">
+  < img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士|中共党员|退伍大学生士兵;专注网络安全+大数据分析;计算机×财经交叉探索中" alt="Typing SVG" />
+</p >
 
-💻 技术栈
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+---
 
-🎯 学习方向
-- 网络安全 / 侧信道安全
-- 大数据分析与可视化
-- 金融科技 / 财经数据处理
+### 🌌 背景动画（自动生效）
+<p align="center">
+  < img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tech/geometry.gif" width="100%" />
+</p >
 
-📌 精选项目
-- 基于SpringBoot的茶叶溯源销售系统（毕设）
-- 计算机408核心知识点整理
-- 数据处理与分析小工具
+---
 
-📫 联系我
-Email：2498542901@qq.com
+### 🚀 关于我
+- 🔭 目前专注于 **网络安全** 与 **大数据处理**
+- 🌱 正在学习 **金融科技** 与 **数据分析** 交叉领域
+- 👯 期待和大家一起交流项目、学习成长
+- 📫 联系我：`2498542981@qq.com`
+
+---
+
+### 💻 技术栈（霓虹徽章）
+<p align="center">
+  < img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00BFFF" />
+  < img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=FF4500" />
+  < img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&color=32CD32" />
+  < img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=00CED1" />
+  < img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=FF6347" />
+  < img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=7FFF00" />
+  < img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&color=4169E1" />
+</p >
+
+---
+
+### 📊 GitHub 动态卡片
+<p align="center">
+  < img src="https://github-readme-stats.vercel.app/api?username=goal249&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal249&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%" />
+</p >
+
+<p align="center">
+  < img src="https://github-readme-streak-stats.herokuapp.com/?user=goal249&theme=tokyonight&hide_border=true&background=00000000" width="50%" />
+</p >
+
+---
+
+### 📌 精选项目
+| 项目 | 描述 | 技术栈 |
+|---|---|---|
+| 🍵 基于SpringBoot的茶叶溯源销售系统 | 毕业设计项目，实现商品展示、订单管理、后台管理功能 | SpringBoot + MySQL + Thymeleaf |
+| 📚 计算机408核心知识点整理 | 计算机考研408知识点笔记，包含数据结构、操作系统、计网、组成原理 | Markdown |
+| 📊 财经数据处理小工具 | 简单的Python脚本，用于爬取和分析财经数据 | Python + Pandas |
+
+---
+
+### 🌐 访客计数器
+<p align="center">
+  < img src="https://komarev.com/ghpvc/?username=goal249&color=blueviolet&style=flat-square" alt="访客数" />
+</p >
+
+---
+
+### ✨ 装饰分割线
+<p align="center">
+  < img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/.github/snake.svg" width="100%" />
+</p >
