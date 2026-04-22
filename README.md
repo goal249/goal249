@@ -6,7 +6,7 @@
 # 👋 你好，我是 破坏王
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士|中共党员|退伍大学生士兵;网络安全+大数据分析" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士;网络安全+大数据分析" alt="Typing SVG" />
 </p >
 
 ---
