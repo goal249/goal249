@@ -325,7 +325,7 @@
                         </div>
                     </div>
                 </template>
-                <el-table :data="filteredAllOrders" stripe>
+                <el-table :data="pagedAllOrders" stripe>
                     <el-table-column prop="orderNo" label="订单号"></el-table-column>
                     <el-table-column prop="amount" label="金额"></el-table-column>
                     <el-table-column prop="addressSnapshot" label="收货地址" min-width="220" show-overflow-tooltip></el-table-column>
@@ -343,6 +343,16 @@
                         </template>
                     </el-table-column>
                 </el-table>
+                <div style="margin-top: 16px; display: flex; justify-content: flex-end;">
+                    <el-pagination
+                            background
+                            layout="total, prev, pager, next, jumper"
+                            :total="allOrdersTotal"
+                            :page-size="orderPageSize"
+                            :current-page="allOrderPage"
+                            @current-change="(page) => allOrderPage = page">
+                    </el-pagination>
+                </div>
             </el-card>
         </div>
 
@@ -379,7 +389,7 @@
                     </div>
                 </div>
             </template>
-            <el-table :data="filteredMyOrders" stripe empty-text="您还没有相关的订单记录">
+            <el-table :data="pagedMyOrders" stripe empty-text="您还没有相关的订单记录">
                 <el-table-column prop="orderNo" label="订单编号" width="180"></el-table-column>
                 <el-table-column prop="teaName" label="商品"></el-table-column>
                 <el-table-column prop="amount" label="支付金额">
@@ -415,6 +425,16 @@
                 </el-table-column>
                 <el-table-column prop="createTime" label="时间"></el-table-column>
             </el-table>
+            <div style="margin-top: 16px; display: flex; justify-content: flex-end;">
+                <el-pagination
+                        background
+                        layout="total, prev, pager, next, jumper"
+                        :total="myOrdersTotal"
+                        :page-size="orderPageSize"
+                        :current-page="myOrderPage"
+                        @current-change="(page) => myOrderPage = page">
+                </el-pagination>
+            </div>
         </el-card>
     </div>
 
@@ -613,6 +633,9 @@
             const banners = ref([]);
             const allOrders = ref([]);
             const myOrders = ref([]);
+            const orderPageSize = 15;
+            const allOrderPage = ref(1);
+            const myOrderPage = ref(1);
             const allUsers = ref([]);
             const orderSearch = reactive({ orderNo: '', status: '' });
             const stats = ref({});
@@ -657,6 +680,16 @@
 
             const filteredAllOrders = computed(() => allOrders.value);
             const filteredMyOrders = computed(() => myOrders.value);
+            const allOrdersTotal = computed(() => filteredAllOrders.value.length);
+            const myOrdersTotal = computed(() => filteredMyOrders.value.length);
+            const pagedAllOrders = computed(() => {
+                const start = (allOrderPage.value - 1) * orderPageSize;
+                return filteredAllOrders.value.slice(start, start + orderPageSize);
+            });
+            const pagedMyOrders = computed(() => {
+                const start = (myOrderPage.value - 1) * orderPageSize;
+                return filteredMyOrders.value.slice(start, start + orderPageSize);
+            });
 
             const loadData = async () => {
                 if (!user.value.id) {
@@ -703,6 +736,7 @@
                     try {
                         const oRes = await axios.get('/api/admin/orders' + queryStr);
                         allOrders.value = oRes.data;
+                        allOrderPage.value = 1;
                     } catch(e) { console.error("全站订单加载失败", e); }
 
                     try {
@@ -730,9 +764,23 @@
                     try {
                         const res = await axios.get('/api/tea/user/orders' + queryStr);
                         myOrders.value = res.data;
+                        myOrderPage.value = 1;
                     } catch(e) {}
                 }
             };
+
+            watch(allOrdersTotal, (total) => {
+                const totalPages = Math.max(1, Math.ceil(total / orderPageSize));
+                if (allOrderPage.value > totalPages) {
+                    allOrderPage.value = totalPages;
+                }
+            });
+            watch(myOrdersTotal, (total) => {
+                const totalPages = Math.max(1, Math.ceil(total / orderPageSize));
+                if (myOrderPage.value > totalPages) {
+                    myOrderPage.value = totalPages;
+                }
+            });
 
             // ECharts 初始化
             let overviewChart = null;
@@ -1168,6 +1216,7 @@
                 reviewDialog, reviewForm, openReview, submitReview,
                 selectedCategory, filteredProducts,
                 confirmReceipt, orderSearch, filteredAllOrders, filteredMyOrders,
+                pagedAllOrders, pagedMyOrders, orderPageSize, allOrderPage, myOrderPage, allOrdersTotal, myOrdersTotal,
                 deleteOrder,
                 addresses, addressDialog, addressForm, formatAddress, openAddressDialog, saveAddress, setDefaultAddress, deleteAddress,
                 categories, categoryDialog, categoryForm, openCategoryDialog, saveCategory, deleteCategory, getCategoryName,
