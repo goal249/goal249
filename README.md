@@ -33,14 +33,32 @@
 ---
 
 ### 📊 GitHub 动态卡片
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goal249&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal249&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" width="40%" alt="Top Languages" />
-</p >
+---
+
+### 📊 GitHub 动态响应
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goal249&theme=radical&hide_border=true&background=1a1b27" width="50%" alt="GitHub Streak" />
-</p >
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=goal249&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27"
+    width="48%"
+    alt="GitHub 统计数据"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal249&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"
+    width="40%"
+    alt="热门语言"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=goal249&theme=radical&hide_border=true&background=1A1B27"
+    width="50%"
+    alt="GitHub 连续使用次数"
+  />
+</p>
+
+---
 
 ---
 
