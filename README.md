@@ -1,83 +1,198 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyberpunk Background" />
-</p >
+<div align="center">
 
-# 👋 你好，我是 破坏王
+# 👋 Hi, I'm Goal
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=燕山大学计算机硕士;网络安全+大数据分析" alt="Typing SVG" />
-</p >
+### 🤖 Robotics | Artificial Intelligence | Deep Learning
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1200&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Robotics+%7C+Artificial+Intelligence;Python+%7C+Machine+Learning;Keep+Learning.+Keep+Building." />
 
-### 🚀 关于我
-- 🔭 目前专注于 **机器人** 
-- 🌱 正在学习 **金融科技** 与 **数据分析** 交叉领域
-- 👯 期待和大家一起交流项目、学习成长
-- 📫 联系我：`2498542981@qq.com`
+<img src="https://komarev.com/ghpvc/?username=goal249&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+</div>
 
 ---
 
-### 💻 技术栈
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p >
+# 🚀 About Me
+
+🎓 Master's Student at **Yanshan University**
+
+🤖 Interested in **Intelligent Robotics** and **Artificial Intelligence**
+
+💡 Passionate about applying AI to robotics, perception, and intelligent systems.
+
+📚 Currently learning:
+
+- Python
+- Machine Learning
+- Deep Learning
+- PyTorch
+
+🎯 Career Goal
+
+Become an **AI Algorithm Engineer** specializing in **Intelligent Robotics**.
 
 ---
 
-### 📊 GitHub 动态卡片
----
+# 🧠 Learning Roadmap
 
-### 📊 GitHub 动态响应
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=goal249&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27"
-    width="48%"
-    alt="GitHub 统计数据"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=goal249&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"
-    width="40%"
-    alt="热门语言"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=goal249&theme=radical&hide_border=true&background=1A1B27"
-    width="50%"
-    alt="GitHub 连续使用次数"
-  />
-</p>
-
----
-
----
-
-### 📌 精选项目
-| 项目 | 描述 | 技术栈 |
-|---|---|---|
-| 🍵 基于SpringBoot的茶叶溯源销售系统 | 毕业设计项目，实现商品展示、订单管理、后台管理功能 | SpringBoot + MySQL + Thymeleaf |
-| 📚 计算机408核心知识点整理 | 计算机考研408知识点笔记，包含数据结构、操作系统、计网、组成原理 | Markdown |
-
-
----
-
-### 🌐 访客计数器
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=goal249&color=7aa2f7&style=for-the-badge" alt="访客数" />
-</p >
+```text
+Python
+      │
+      ▼
+NumPy & Pandas
+      │
+      ▼
+Machine Learning
+      │
+      ▼
+MLP
+      │
+      ▼
+CNN
+      │
+      ▼
+RNN
+      │
+      ▼
+LSTM
+      │
+      ▼
+Transformer
+      │
+      ▼
+Computer Vision
+      │
+      ▼
+ROS2
+      │
+      ▼
+Robot Intelligence
+```
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-</p >
+# 💻 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### AI & Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge)
+
+---
+
+### Robotics Learning
+
+![MLP](https://img.shields.io/badge/MLP-Neural%20Network-purple?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-Computer%20Vision-orange?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-Sequence%20Learning-success?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-Time%20Series-blueviolet?style=for-the-badge)
+![Transformer](https://img.shields.io/badge/Transformer-Attention-black?style=for-the-badge)
+![ROS2](https://img.shields.io/badge/ROS2-Robotics-22314E?style=for-the-badge)
+
+---
+
+### Development
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📌 Featured Project
+
+## 🍵 Tea Traceability System
+
+A tea traceability and sales platform based on Spring Boot.
+
+**Tech Stack**
+
+- Java
+- Spring Boot
+- MySQL
+- Thymeleaf
+
+---
+
+# 📖 Current Learning
+
+- ✅ Python Programming
+- 🔄 NumPy
+- 🔄 Pandas
+- 🔄 Machine Learning
+- 🔄 PyTorch
+- 🔄 MLP
+- 🔄 CNN
+- 🔄 RNN
+- 🔄 LSTM
+- 🔄 Transformer
+- ⏳ ROS2
+- ⏳ Computer Vision
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- ⏳ Complete Machine Learning Fundamentals
+- ⏳ Build an MLP Project
+- ⏳ Build a CNN Image Classification Project
+- ⏳ Complete an LSTM Time-Series Project
+- ⏳ Learn Transformer
+- ⏳ Learn ROS2
+- ⏳ Build an Intelligent Robotics Project
+- ⏳ Contribute to Open Source
+
+---
+
+# 🌱 Future Projects
+
+- 🤖 Robot Vision
+- 📷 Image Classification
+- 🚗 Intelligent Vehicle
+- 🦾 Robotic Arm Control
+- 🗺️ SLAM
+- 🎯 Object Detection
+- 🤖 Reinforcement Learning
+- 🧠 Large Language Models for Robotics
+
+---
+
+# 💬 Motto
+
+> **"The best way to predict the future is to build it."**
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+2498542981@qq.com
+
+🌐 GitHub
+
+https://github.com/goal249
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub!
+
+**Keep Learning · Keep Coding · Keep Building**
+
+</div>
